@@ -1,5 +1,5 @@
 # Neonsofts Website
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![HitCount](http://hits.dwyl.io/sayederfanarefin/html-neonsofts.com.svg)](http://hits.dwyl.io/sayederfanarefin/html-neonsofts.com)
 
 This is a html css based website for a small startup back in the days. It was build using bootstrap.
 
